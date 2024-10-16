@@ -1,0 +1,100 @@
+--- Pharmacy Management System ---
+1. Register
+2. Login
+3. Exit
+Enter your choice: 1
+Enter email: asdd@gamil.com
+Enter password: 1234
+Registration successful! Please login to continue.
+
+--- Pharmacy Management System ---
+1. Register
+2. Login
+3. Exit
+Enter your choice: 2
+Enter email: asdd2gamil.com
+Enter password: 1234
+Invalid credentials, please try again.
+
+--- Pharmacy Management System ---
+1. Register
+2. Login
+3. Exit
+Enter your choice: 2
+Enter email: qwe@gmail.com
+Enter password: 4567
+Invalid credentials, please try again.
+
+--- Pharmacy Management System ---
+1. Register
+2. Login
+3. Exit
+Enter your choice: 2
+Enter email: asdd@gamil.com
+Enter password: 1234
+Login successful!
+
+--- Pharmacy Management System ---
+1. View Medicines
+2. Order Medicine
+3. Track Orders
+4. Request Doctor Consultation
+5. Logout
+Enter your choice: 1
+Available Medicines:
+1. Paracetamol - $5.0
+2. Ibuprofen - $7.0
+3. Aspirin - $6.5
+4. Amoxicillin - $12.0
+
+--- Pharmacy Management System ---
+1. View Medicines
+2. Order Medicine
+3. Track Orders
+4. Request Doctor Consultation
+5. Logout
+Enter your choice: 2
+Available Medicines:
+1. Paracetamol - $5.0
+2. Ibuprofen - $7.0
+3. Aspirin - $6.5
+4. Amoxicillin - $12.0
+Enter the number of the medicine you want to order: 2
+You ordered: Ibuprofen
+Order placed successfully!
+
+--- Pharmacy Management System ---
+1. View Medicines
+2. Order Medicine
+3. Track Orders
+4. Request Doctor Consultation
+5. Logout
+Enter your choice: 3
+Your Orders:
+Medicine: Ibuprofen, Status: Order Placed
+
+--- Pharmacy Management System ---
+1. View Medicines
+2. Order Medicine
+3. Track Orders
+4. Request Doctor Consultation
+5. Logout
+Enter your choice: 4
+Requesting consultation with a doctor...
+Doctor will get in touch with you soon.
+
+--- Pharmacy Management System ---
+1. View Medicines
+2. Order Medicine
+3. Track Orders
+4. Request Doctor Consultation
+5. Logout
+Enter your choice: 5
+Logged out successfully.
+
+--- Pharmacy Management System ---
+1. Register
+2. Login
+3. Exit
+Enter your choice: 
+=== Session Ended. Please Run the code again ===
